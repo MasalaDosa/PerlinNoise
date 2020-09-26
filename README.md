@@ -3,6 +3,7 @@
 ## noisedemo.py
 
 python3 noisedemo.py
+
 Basic rendering of noise with a variable numberr of octaves applied.
 
 ## isocraft.py
